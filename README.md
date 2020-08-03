@@ -17,7 +17,7 @@ REQUISITI MINIMI
 - 500mb RAM
 - 1mb di archiviazione
 - Sistema a 64 bit
-- Qualsiasi versione di windows
+- Windows 7/8/10
 
 ---
 
