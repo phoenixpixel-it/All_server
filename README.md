@@ -8,7 +8,7 @@ UTILIZZO<br>
 All_Server ha due funzioni principali:
 
 - Backup automatico = Esegue il salvataggio automatico della cartella specificata ogni x ore
-- Riavvio automatico = Riavvia il server dopo 20 secondi (circa) per evitare crash o surriscaldare la macchina
+- Riavvio automatico = Riavvia il programma selezionato dopo 20 secondi (circa) per evitare crash o surriscaldare la macchina
 
 ---
 
